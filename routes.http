@@ -1,4 +1,4 @@
-POST http://localhost:3000/videos
+POST https://projeto-node-y546.onrender.com/videos
 Content-Type: application/json
 
 {
@@ -9,11 +9,11 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:3000/videos
+GET https://projeto-node-y546.onrender.com/videos
 
 ###
 
-PUT http://localhost:3000/videos/22cf2190-4c56-4bfb-bd4f-ce60b5132d03
+PUT https://projeto-node-y546.onrender.com/videos/e42ca60a-58f4-4380-b0a7-d0e64edfc1bf
 Content-Type: application/json
 
 {
@@ -24,4 +24,4 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:3000/videos/22cf2190-4c56-4bfb-bd4f-ce60b5132d03
+DELETE https://projeto-node-y546.onrender.com/videos/f7012b13-8352-4d00-9073-84793594bf68
